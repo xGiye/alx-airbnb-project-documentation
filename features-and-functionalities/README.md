@@ -4,6 +4,11 @@ The backend of the Airbnb Clone project is designed to support all the essential
 
 ---
 
+![Airbnb Clone Backend features and functionalities](./Airbnb%20Clone%20-%20Backend%20Features%20.png)
+_Airbnb Clone Backend features and functionalities diagram_
+
+---
+
 ### 1. User Authentication and Authorization
 
 **Description**:  

@@ -103,34 +103,7 @@ Provide admins with tools to oversee platform operations.
 
 ---
 
-### 8. Security and Compliance
-
-**Description**:  
-Ensure the platform is secure and compliant with data protection laws.
-
-**Functionalities**:
-
-- Input validation and sanitation.
-- Rate limiting and IP blocking.
-- Secure password storage (hashing with salt).
-- HTTPS and CORS support.
-
----
-
-Each feature is designed to be scalable and modular, allowing for future expansion and integration with frontend services or mobile applications.
-
-### 9. Search and filtering
-
-**Description**:  
-Ensure users can search and filter properties.
-
-**Functionalities**:
-
-- Filter and search based on Location, price range, number of guest and amenities.
-
----
-
-### 10. Notification System
+### 8. Notification System
 
 **Description**:  
 Ensure users get neccessary notifications for adequate response.
